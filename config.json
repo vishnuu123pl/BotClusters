@@ -15,13 +15,5 @@
             "TOKEN": "6382508936:AAEv_MQ93PsPj-IWt_OA68ugDXNuPzeIWxg"
         },
         "run": ""
-    },
-    "bot3": {
-        "source": "",
-        "branch": "",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": ""
     }
 }
