@@ -5,7 +5,7 @@
         "env": {
             "TOKEN": "6621594376:AAGCwfRJKYFVyyACBA5PFxDpPzzye95MmwU"
         },
-        "run": "bot.py"
+        "run": "python3 bot.py"
     },
     "bot2": {
         "source": "https://github.com/hpmcreative/SERIAL-BOT-2-DQ.git",
@@ -13,6 +13,6 @@
         "env": {
             "TOKEN": "6382508936:AAEv_MQ93PsPj-IWt_OA68ugDXNuPzeIWxg"
         },
-        "run": "bot.py"
+        "run": "python3 bot.py"
     }
 }
