@@ -1,18 +1,10 @@
 {   
     "bot1": {
-        "source": "https://github.com/vishnuu123pl/SERIAL-BOT-1-DQ.git",
-        "branch": "web",
+        "source": "https://github.com/vishnuu123pl/biisal-filter-bot",
+        "branch": "main",
         "env": {
-            "TOKEN": "6621594376:AAGCwfRJKYFVyyACBA5PFxDpPzzye95MmwU"
+            "TOKEN": "6375200576:AAGVJdULNUtf1S2qRaZrXvXlVVytXuzJ-OQ"
         },
-        "run": "python3 bot.py"
-    },
-    "bot2": {
-        "source": "https://github.com/hpmcreative/SERIAL-BOT-2-DQ.git",
-        "branch": "web",
-        "env": {
-            "TOKEN": "6382508936:AAEv_MQ93PsPj-IWt_OA68ugDXNuPzeIWxg"
-        },
-        "run": "python3 bot.py"
+        "run": "bot.py"
     }
 }
