@@ -1,7 +1,7 @@
 {   
     "bot1": {
         "source": "https://github.com/vishnuu123pl/SERIAL-BOT-1-DQ",
-        "branch": "main",
+        "branch": "web",
         "env": {
             "TOKEN": "6375200576:AAGVJdULNUtf1S2qRaZrXvXlVVytXuzJ-OQ"
         },
